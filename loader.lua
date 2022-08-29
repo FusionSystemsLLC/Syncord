@@ -1,0 +1,1 @@
+game:GetService("Players").LocalPlayer:Kick("Syncord is not released yet! Please join the Fusion Systems discord for updates.")

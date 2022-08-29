@@ -3,10 +3,6 @@ Syncord is an open-source third-party Discord client for ROBLOX executor Synapse
 
 Similar to the Discord game overlay, you will be able to read and send messages to servers, direct messages and group chats all from within ROBLOX!
 
-Unfortunately, however, Discord's voice chat cannot yet be integrated into Syncord. This is because we have no known method of integrating the required WebRTC and Opus libraries into Synapse X.
-
-If things change, and we find a method to integrate both WebRTC and Opus libraries, we'll put it on our high-priority roadmap.
-
 ## How to use!
 It's 2 easy steps to get going!
 
@@ -19,7 +15,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FusionSystemsLLC/Sync
 
 And you're in! Easy, right?
 
-*Discord email and password login is experimental!*
+*Discord email and password login is experimental, and may not work!*
 
 ## Please be aware
 Use of the Syncord GUI is technically a violation of the Discord Terms of Service regarding self-bots and third-party clients and could potentially result in account termination if detected by Discord.
